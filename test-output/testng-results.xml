@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="5" passed="5" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-06-06T13:13:40 IST" name="Default suite" finished-at="2024-06-06T13:14:08 IST" duration-ms="28139">
+    <groups>
+    </groups>
+    <test started-at="2024-06-06T13:13:40 IST" name="Default test" finished-at="2024-06-06T13:14:08 IST" duration-ms="28139">
+      <class name="testodoo.Testodoo">
+        <test-method is-config="true" signature="setup()[pri:0, instance:testodoo.Testodoo@3e27aa33]" started-at="2024-06-06T13:13:40 IST" name="setup" finished-at="2024-06-06T13:13:47 IST" duration-ms="6868" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="signup()[pri:1, instance:testodoo.Testodoo@3e27aa33]" started-at="2024-06-06T13:13:47 IST" name="signup" finished-at="2024-06-06T13:13:49 IST" duration-ms="1881" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- signup -->
+        <test-method signature="login()[pri:2, instance:testodoo.Testodoo@3e27aa33]" started-at="2024-06-06T13:13:49 IST" name="login" finished-at="2024-06-06T13:13:56 IST" duration-ms="7217" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method signature="window()[pri:3, instance:testodoo.Testodoo@3e27aa33]" started-at="2024-06-06T13:13:56 IST" name="window" finished-at="2024-06-06T13:14:02 IST" duration-ms="6068" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- window -->
+        <test-method signature="free()[pri:4, instance:testodoo.Testodoo@3e27aa33]" started-at="2024-06-06T13:14:02 IST" name="free" finished-at="2024-06-06T13:14:06 IST" duration-ms="4260" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- free -->
+        <test-method signature="logout()[pri:5, instance:testodoo.Testodoo@3e27aa33]" started-at="2024-06-06T13:14:06 IST" name="logout" finished-at="2024-06-06T13:14:08 IST" duration-ms="1742" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logout -->
+      </class> <!-- testodoo.Testodoo -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
